@@ -34,5 +34,3 @@
 * [蛮族勇士：三十三城记](蛮族勇士：三十三城记.md)
 * [世界向右，中国向左](世界向右，中国向左.md)
 * [北京经济怎么了？](北京经济怎么了？.md)
-
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=J1uT0ng.Mzys)
