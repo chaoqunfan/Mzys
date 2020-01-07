@@ -32,5 +32,6 @@
 * [海那边的邻居](海那边的邻居.md)
 * [以医立城—岛城乱局的经济解决方案](以医立城—岛城乱局的经济解决方案.md)
 * [蛮族勇士：三十三城记](蛮族勇士：三十三城记.pdf)
+* [蛮族勇士：三十三城记](蛮族勇士：三十三城记.md)
 
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=J1uT0ng.Mzys)
